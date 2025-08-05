@@ -29,3 +29,6 @@ Ask questions in natural language
 Get context-aware answers pulled directly from your document!
 
 💡 Perfect for building document Q&A systems, contract analyzers, or personal research tools — all powered by local models.
+
+<img width="1570" height="961" alt="image" src="https://github.com/user-attachments/assets/26d768ca-1bb1-4c05-ae34-20f22327ba19" />
+
