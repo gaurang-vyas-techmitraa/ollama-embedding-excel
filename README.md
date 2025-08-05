@@ -1,6 +1,10 @@
 # ollama-embedding-excel
 
 # install ollama in local
+# load excel file like
+
+<img width="908" height="270" alt="image" src="https://github.com/user-attachments/assets/998f1903-9d4c-478d-bd71-1a2cd30d1fee" />
+
 # streamlit run read_excel.py  - execute command in terminal
 Perfect for building document Q&amp;A systems, contract analyzers, or personal research tools — all powered by local models.
 🧠 Built a Local RAG Chatbot with Ollama Embeddings!
